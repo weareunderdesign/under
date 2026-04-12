@@ -1,0 +1,105 @@
+/* under font family */
+
+@font-face {
+  font-family: 'under';
+  src: url('under-Thin.woff2') format('woff2'),
+       url('under-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'under';
+  src: url('under-ExtraLight.woff2') format('woff2'),
+       url('under-ExtraLight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'under';
+  src: url('under-Light.woff2') format('woff2'),
+       url('under-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'under';
+  src: url('under-Regular.woff2') format('woff2'),
+       url('under-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'under';
+  src: url('under-Medium.woff2') format('woff2'),
+       url('under-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'under';
+  src: url('under-SemiBold.woff2') format('woff2'),
+       url('under-SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'under';
+  src: url('under-Bold.woff2') format('woff2'),
+       url('under-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'under';
+  src: url('under-ExtraBold.woff2') format('woff2'),
+       url('under-ExtraBold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'under';
+  src: url('under-Black.woff2') format('woff2'),
+       url('under-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Variable font version */
+@font-face {
+  font-family: 'under var';
+  src: url('under.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Utility classes */
+.under-thin { font-family: 'under', sans-serif; font-weight: 100; }
+.under-extralight { font-family: 'under', sans-serif; font-weight: 200; }
+.under-light { font-family: 'under', sans-serif; font-weight: 300; }
+.under-regular { font-family: 'under', sans-serif; font-weight: 400; }
+.under-medium { font-family: 'under', sans-serif; font-weight: 500; }
+.under-semibold { font-family: 'under', sans-serif; font-weight: 600; }
+.under-bold { font-family: 'under', sans-serif; font-weight: 700; }
+.under-extrabold { font-family: 'under', sans-serif; font-weight: 800; }
+.under-black { font-family: 'under', sans-serif; font-weight: 900; }
+
+/* Variable font utility */
+.under-var { font-family: 'under var', sans-serif; }
