@@ -7,11 +7,15 @@ ov
 axes = (
 {
 default = 400;
+max = 900;
+min = 100;
 name = Weight;
 tag = wght;
 },
 {
 default = 16;
+max = 48;
+min = 16;
 name = "Optical size";
 tag = opsz;
 }
@@ -57670,9 +57674,6 @@ axesValues = (
 100,
 16
 );
-instanceInterpolations = {
-"F2C6FA2E-D08A-4B94-92D2-D7CA5820546A" = 1;
-};
 name = Thin;
 },
 {
@@ -57680,10 +57681,6 @@ axesValues = (
 200,
 16
 );
-instanceInterpolations = {
-"F2C6FA2E-D08A-4B94-92D2-D7CA5820546A" = 0.66667;
-m01 = 0.33333;
-};
 name = ExtraLight;
 },
 {
@@ -57691,10 +57688,6 @@ axesValues = (
 300,
 16
 );
-instanceInterpolations = {
-"F2C6FA2E-D08A-4B94-92D2-D7CA5820546A" = 0.33333;
-m01 = 0.66667;
-};
 name = Light;
 },
 {
@@ -57702,9 +57695,6 @@ axesValues = (
 400,
 16
 );
-instanceInterpolations = {
-m01 = 1;
-};
 name = Regular;
 },
 {
@@ -57712,10 +57702,6 @@ axesValues = (
 500,
 16
 );
-instanceInterpolations = {
-"F8E60EAC-58E2-4CB8-A8B6-FD6FE89414CC" = 0.2;
-m01 = 0.8;
-};
 name = Medium;
 },
 {
@@ -57723,10 +57709,6 @@ axesValues = (
 600,
 16
 );
-instanceInterpolations = {
-"F8E60EAC-58E2-4CB8-A8B6-FD6FE89414CC" = 0.4;
-m01 = 0.6;
-};
 name = SemiBold;
 },
 {
@@ -57734,10 +57716,6 @@ axesValues = (
 700,
 16
 );
-instanceInterpolations = {
-"F8E60EAC-58E2-4CB8-A8B6-FD6FE89414CC" = 0.6;
-m01 = 0.4;
-};
 name = Bold;
 },
 {
@@ -57745,10 +57723,6 @@ axesValues = (
 800,
 16
 );
-instanceInterpolations = {
-"F8E60EAC-58E2-4CB8-A8B6-FD6FE89414CC" = 0.8;
-m01 = 0.2;
-};
 name = ExtraBold;
 },
 {
@@ -57756,9 +57730,6 @@ axesValues = (
 900,
 16
 );
-instanceInterpolations = {
-"F8E60EAC-58E2-4CB8-A8B6-FD6FE89414CC" = 1;
-};
 name = Black;
 },
 
@@ -57767,9 +57738,6 @@ axesValues = (
 100,
 48
 );
-instanceInterpolations = {
-m005 = 1;
-};
 name = "Thin Display";
 },
 {
@@ -57777,10 +57745,6 @@ axesValues = (
 200,
 48
 );
-instanceInterpolations = {
-m004 = 0.33333;
-m005 = 0.66667;
-};
 name = "ExtraLight Display";
 },
 {
@@ -57788,10 +57752,6 @@ axesValues = (
 300,
 48
 );
-instanceInterpolations = {
-m004 = 0.66667;
-m005 = 0.33333;
-};
 name = "Light Display";
 },
 {
@@ -57799,9 +57759,6 @@ axesValues = (
 400,
 48
 );
-instanceInterpolations = {
-m004 = 1;
-};
 name = "Regular Display";
 },
 {
@@ -57809,10 +57766,6 @@ axesValues = (
 500,
 48
 );
-instanceInterpolations = {
-m004 = 0.8;
-m006 = 0.2;
-};
 name = "Medium Display";
 },
 {
@@ -57820,10 +57773,6 @@ axesValues = (
 600,
 48
 );
-instanceInterpolations = {
-m004 = 0.6;
-m006 = 0.4;
-};
 name = "SemiBold Display";
 },
 {
@@ -57831,10 +57780,6 @@ axesValues = (
 700,
 48
 );
-instanceInterpolations = {
-m004 = 0.4;
-m006 = 0.6;
-};
 name = "Bold Display";
 },
 {
@@ -57842,10 +57787,6 @@ axesValues = (
 800,
 48
 );
-instanceInterpolations = {
-m004 = 0.2;
-m006 = 0.8;
-};
 name = "ExtraBold Display";
 },
 {
@@ -57853,9 +57794,6 @@ axesValues = (
 900,
 48
 );
-instanceInterpolations = {
-m006 = 1;
-};
 name = "Black Display";
 }
 );
