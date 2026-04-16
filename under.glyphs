@@ -418,7 +418,7 @@ quotedblleft,
 quotedblright,
 quoteright,
 quotedbl
-)
+);
 }
 );
 date = "2021-06-18 21:05:31 +0000";
@@ -455,59 +455,6 @@ labels = (
 {
 language = dflt;
 value = "Alternate r";
-}
-
-{
-code = "sub uni0030 by uniE071;
-sub uni0031 by uniE072;
-sub uni0032 by uniE073;
-sub uni0033 by uniE074;
-sub uni0034 by uniE075;
-sub uni0035 by uniE076;
-sub uni0036 by uniE077;
-sub uni0037 by uniE078;
-sub uni0038 by uniE079;
-sub uni0039 by uniE07A;";
-name = "Tabular Figures";
-tag = tnum;
-},
-{
-code = "sub uni0030 by uni2070;
-sub uni0031 by uni00B9;
-sub uni0032 by uni00B2;
-sub uni0033 by uni00B3;
-sub uni0034 by uni2074;
-sub uni0035 by uni2075;
-sub uni0036 by uni2076;
-sub uni0037 by uni2077;
-sub uni0038 by uni2078;
-sub uni0039 by uni2079;
-sub uni002B by uni207A;
-sub uni002D by uni207B;
-sub uni003D by uni207C;
-sub uni0028 by uni207D;
-sub uni0029 by uni207E;";
-name = Superscript;
-tag = sups;
-},
-{
-code = "sub uni0030 by uni2080;
-sub uni0031 by uni2081;
-sub uni0032 by uni2082;
-sub uni0033 by uni2083;
-sub uni0034 by uni2084;
-sub uni0035 by uni2085;
-sub uni0036 by uni2086;
-sub uni0037 by uni2087;
-sub uni0038 by uni2088;
-sub uni0039 by uni2089;
-sub uni002B by uni208A;
-sub uni002D by uni208B;
-sub uni003D by uni208C;
-sub uni0028 by uni208D;
-sub uni0029 by uni208E;";
-name = Subscript;
-tag = subs;
 }
 );
 tag = ss01;
@@ -583,6 +530,58 @@ value = "Alternate G";
 }
 );
 tag = ss05;
+},
+{
+code = "sub uni0030 by uniE071;
+sub uni0031 by uniE072;
+sub uni0032 by uniE073;
+sub uni0033 by uniE074;
+sub uni0034 by uniE075;
+sub uni0035 by uniE076;
+sub uni0036 by uniE077;
+sub uni0037 by uniE078;
+sub uni0038 by uniE079;
+sub uni0039 by uniE07A;";
+name = "Tabular Figures";
+tag = tnum;
+},
+{
+code = "sub uni0030 by uni2070;
+sub uni0031 by uni00B9;
+sub uni0032 by uni00B2;
+sub uni0033 by uni00B3;
+sub uni0034 by uni2074;
+sub uni0035 by uni2075;
+sub uni0036 by uni2076;
+sub uni0037 by uni2077;
+sub uni0038 by uni2078;
+sub uni0039 by uni2079;
+sub uni002B by uni207A;
+sub uni002D by uni207B;
+sub uni003D by uni207C;
+sub uni0028 by uni207D;
+sub uni0029 by uni207E;";
+name = Superscript;
+tag = sups;
+},
+{
+code = "sub uni0030 by uni2080;
+sub uni0031 by uni2081;
+sub uni0032 by uni2082;
+sub uni0033 by uni2083;
+sub uni0034 by uni2084;
+sub uni0035 by uni2085;
+sub uni0036 by uni2086;
+sub uni0037 by uni2087;
+sub uni0038 by uni2088;
+sub uni0039 by uni2089;
+sub uni002B by uni208A;
+sub uni002D by uni208B;
+sub uni003D by uni208C;
+sub uni0028 by uni208D;
+sub uni0029 by uni208E;";
+name = Subscript;
+tag = subs;
 }
 );
 fontMaster = (
