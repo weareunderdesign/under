@@ -1970,6 +1970,7 @@ width = 939;
 );
 note = uni0042;
 unicode = 66;
+leftMetricsKey = "=uni0048";
 },
 {
 glyphname = uni0043;
@@ -2200,6 +2201,7 @@ width = 915;
 );
 note = uni0043;
 unicode = 67;
+leftMetricsKey = "=uni004F";
 },
 {
 glyphname = uni0044;
@@ -2412,6 +2414,7 @@ width = 985;
 );
 note = uni0044;
 unicode = 68;
+leftMetricsKey = "=uni0048";
 },
 {
 glyphname = uni0045;
@@ -2672,6 +2675,7 @@ width = 869;
 );
 note = uni0045;
 unicode = 69;
+leftMetricsKey = "=uni0048";
 },
 {
 glyphname = uni0046;
@@ -2878,6 +2882,7 @@ width = 860;
 );
 note = uni0046;
 unicode = 70;
+leftMetricsKey = "=uni0048";
 },
 {
 glyphname = uni0047;
@@ -3204,6 +3209,7 @@ width = 1004;
 );
 note = uni0047;
 unicode = 71;
+leftMetricsKey = "=uni004F";
 },
 {
 glyphname = uni0048;
@@ -3508,6 +3514,7 @@ width = 412;
 );
 note = uni0049;
 unicode = 73;
+leftMetricsKey = "=uni0048";
 },
 {
 glyphname = uni004A;
@@ -4036,6 +4043,7 @@ width = 840;
 );
 note = uni004C;
 unicode = 76;
+leftMetricsKey = "=uni0048";
 },
 {
 glyphname = uni004D;
@@ -4502,6 +4510,7 @@ width = 1054;
 );
 note = uni004E;
 unicode = 78;
+leftMetricsKey = "=uni0048";
 },
 {
 glyphname = uni004F;
@@ -4986,6 +4995,7 @@ width = 931;
 );
 note = uni0050;
 unicode = 80;
+leftMetricsKey = "=uni0048";
 },
 {
 glyphname = uni0051;
@@ -5288,6 +5298,7 @@ width = 936;
 );
 note = uni0051;
 unicode = 81;
+leftMetricsKey = "=uni004F";
 },
 {
 glyphname = uni0052;
@@ -5632,6 +5643,7 @@ width = 990;
 );
 note = uni0052;
 unicode = 82;
+leftMetricsKey = "=uni0048";
 },
 {
 glyphname = uni0053;
@@ -8666,6 +8678,7 @@ width = 830;
 );
 note = uni0063;
 unicode = 99;
+leftMetricsKey = "=uni006F";
 },
 {
 glyphname = uni0064;
@@ -9258,6 +9271,7 @@ width = 839;
 );
 note = uni0065;
 unicode = 101;
+leftMetricsKey = "=uni006F";
 },
 {
 glyphname = uni0066;
@@ -11026,6 +11040,7 @@ width = 1383;
 );
 note = uni006D;
 unicode = 109;
+leftMetricsKey = "=uni006E";
 },
 {
 glyphname = uni006E;
@@ -13478,6 +13493,7 @@ width = 888;
 );
 note = uni0075;
 unicode = 117;
+leftMetricsKey = "=uni006E";
 },
 {
 glyphname = uni0076;
