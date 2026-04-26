@@ -110,16 +110,16 @@ uni0036,
 uni0037,
 uni0038,
 uni0039,
-uniE071,
-uniE072,
-uniE073,
-uniE074,
-uniE075,
-uniE076,
-uniE077,
-uniE078,
-uniE079,
-uniE07A,
+zero.tnum,
+one.tnum,
+two.tnum,
+three.tnum,
+four.tnum,
+five.tnum,
+six.tnum,
+seven.tnum,
+eight.tnum,
+nine.tnum,
 uni0026,
 uni0021,
 uni203C,
@@ -546,16 +546,16 @@ value = "Alternate G";
 tag = ss05;
 },
 {
-code = "sub uni0030 by uniE071;
-sub uni0031 by uniE072;
-sub uni0032 by uniE073;
-sub uni0033 by uniE074;
-sub uni0034 by uniE075;
-sub uni0035 by uniE076;
-sub uni0036 by uniE077;
-sub uni0037 by uniE078;
-sub uni0038 by uniE079;
-sub uni0039 by uniE07A;";
+code = "sub uni0030 by zero.tnum;
+sub uni0031 by one.tnum;
+sub uni0032 by two.tnum;
+sub uni0033 by three.tnum;
+sub uni0034 by four.tnum;
+sub uni0035 by five.tnum;
+sub uni0036 by six.tnum;
+sub uni0037 by seven.tnum;
+sub uni0038 by eight.tnum;
+sub uni0039 by nine.tnum;";
 name = "Tabular Figures";
 tag = tnum;
 },
@@ -18420,7 +18420,7 @@ note = uni0039;
 unicode = 57;
 },
 {
-glyphname = uniE071;
+glyphname = zero.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
 layers = (
 {
@@ -18485,10 +18485,9 @@ width = 726;
 }
 );
 note = uniE071;
-unicode = 57457;
 },
 {
-glyphname = uniE072;
+glyphname = one.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
 layers = (
 {
@@ -18555,10 +18554,9 @@ width = 726;
 }
 );
 note = uniE072;
-unicode = 57458;
 },
 {
-glyphname = uniE073;
+glyphname = two.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
 layers = (
 {
@@ -18625,10 +18623,9 @@ width = 726;
 }
 );
 note = uniE073;
-unicode = 57459;
 },
 {
-glyphname = uniE074;
+glyphname = three.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
 layers = (
 {
@@ -18695,10 +18692,9 @@ width = 726;
 }
 );
 note = uniE074;
-unicode = 57460;
 },
 {
-glyphname = uniE075;
+glyphname = four.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
 layers = (
 {
@@ -18761,10 +18757,9 @@ width = 723;
 }
 );
 note = uniE075;
-unicode = 57461;
 },
 {
-glyphname = uniE076;
+glyphname = five.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
 layers = (
 {
@@ -18831,10 +18826,9 @@ width = 726;
 }
 );
 note = uniE076;
-unicode = 57462;
 },
 {
-glyphname = uniE077;
+glyphname = six.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
 layers = (
 {
@@ -18901,10 +18895,9 @@ width = 726;
 }
 );
 note = uniE077;
-unicode = 57463;
 },
 {
-glyphname = uniE078;
+glyphname = seven.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
 layers = (
 {
@@ -18971,10 +18964,9 @@ width = 726;
 }
 );
 note = uniE078;
-unicode = 57464;
 },
 {
-glyphname = uniE079;
+glyphname = eight.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
 layers = (
 {
@@ -19041,10 +19033,9 @@ width = 726;
 }
 );
 note = uniE079;
-unicode = 57465;
 },
 {
-glyphname = uniE07A;
+glyphname = nine.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
 layers = (
 {
@@ -19111,7 +19102,6 @@ width = 726;
 }
 );
 note = uniE07A;
-unicode = 57466;
 },
 {
 glyphname = uni0026;
