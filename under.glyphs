@@ -671,6 +671,24 @@ pos = -241;
 }
 );
 name = "Regular text";
+alignmentZones = (
+{
+position = 727;
+size = 12;
+},
+{
+position = 545;
+size = 6;
+},
+{
+position = 0;
+size = -12;
+},
+{
+position = -181;
+size = -35;
+}
+);
 },
 {
 axesValues = (
@@ -745,6 +763,24 @@ pos = -241;
 }
 );
 name = "Thin text";
+alignmentZones = (
+{
+position = 727;
+size = 12;
+},
+{
+position = 545;
+size = 6;
+},
+{
+position = 0;
+size = -12;
+},
+{
+position = -181;
+size = -35;
+}
+);
 },
 {
 axesValues = (
@@ -819,6 +855,24 @@ pos = -241;
 }
 );
 name = "Black text";
+alignmentZones = (
+{
+position = 727;
+size = 12;
+},
+{
+position = 545;
+size = 6;
+},
+{
+position = 0;
+size = -12;
+},
+{
+position = -181;
+size = -35;
+}
+);
 },
 {
 axesValues = (
@@ -892,6 +946,24 @@ pos = -241;
 }
 );
 name = "Regular display";
+alignmentZones = (
+{
+position = 727;
+size = 12;
+},
+{
+position = 545;
+size = 6;
+},
+{
+position = 0;
+size = -12;
+},
+{
+position = -181;
+size = -35;
+}
+);
 },
 {
 axesValues = (
@@ -966,6 +1038,24 @@ pos = -241;
 }
 );
 name = "Thin display";
+alignmentZones = (
+{
+position = 727;
+size = 12;
+},
+{
+position = 545;
+size = 6;
+},
+{
+position = 0;
+size = -12;
+},
+{
+position = -181;
+size = -35;
+}
+);
 },
 {
 axesValues = (
@@ -1040,6 +1130,24 @@ pos = -241;
 }
 );
 name = "Black display";
+alignmentZones = (
+{
+position = 727;
+size = 12;
+},
+{
+position = 545;
+size = 6;
+},
+{
+position = 0;
+size = -12;
+},
+{
+position = -181;
+size = -35;
+}
+);
 }
 );
 glyphs = (
