@@ -414,7 +414,36 @@ emdash.case,
 quotedblleft,
 quotedblright,
 quoteright,
-quotedbl
+quotedbl,
+eacute,
+alef,
+bet,
+gimel,
+dalet,
+he,
+vav,
+zayin,
+het,
+tet,
+yod,
+finalkaf,
+kaf,
+lamed,
+finalmem,
+mem,
+finalnun,
+nun,
+samekh,
+ayin,
+finalpe,
+pe,
+finaltsadi,
+tsadi,
+qof,
+resh,
+shin,
+tav,
+acutecomb
 );
 },
 {
@@ -1233,7 +1262,6 @@ width = 475;
 }
 );
 },
-,
 {
 glyphname = .null;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -1265,7 +1293,6 @@ width = 21;
 );
 note = .null;
 },
-,
 {
 glyphname = uni0041;
 kernLeft = uni0041;
@@ -1474,7 +1501,6 @@ width = 1134;
 note = uni0041;
 unicode = 65;
 },
-,
 {
 glyphname = uni0042;
 kernLeft = uni0048;
@@ -1912,7 +1938,6 @@ metricLeft = "=uni0048";
 note = uni0042;
 unicode = 66;
 },
-,
 {
 glyphname = uni0043;
 kernLeft = uni004F;
@@ -2146,7 +2171,6 @@ metricLeft = "=uni004F";
 note = uni0043;
 unicode = 67;
 },
-,
 {
 glyphname = uni0044;
 kernLeft = uni0048;
@@ -2362,7 +2386,6 @@ metricLeft = "=uni0048";
 note = uni0044;
 unicode = 68;
 },
-,
 {
 glyphname = uni0045;
 kernLeft = uni0048;
@@ -2626,7 +2649,6 @@ metricLeft = "=uni0048";
 note = uni0045;
 unicode = 69;
 },
-,
 {
 glyphname = uni0046;
 kernLeft = uni0046;
@@ -2836,7 +2858,6 @@ metricLeft = "=uni0048";
 note = uni0046;
 unicode = 70;
 },
-,
 {
 glyphname = uni0047;
 kernLeft = uni004F;
@@ -3166,7 +3187,6 @@ metricLeft = "=uni004F";
 note = uni0047;
 unicode = 71;
 },
-,
 {
 glyphname = uni0048;
 kernLeft = uni0048;
@@ -3375,7 +3395,6 @@ width = 1014;
 note = uni0048;
 unicode = 72;
 },
-,
 {
 glyphname = uni0049;
 kernLeft = uni0048;
@@ -3477,7 +3496,6 @@ metricLeft = "=uni0048";
 note = uni0049;
 unicode = 73;
 },
-,
 {
 glyphname = uni004A;
 kernLeft = uni0048;
@@ -3650,7 +3668,6 @@ width = 980;
 note = uni004A;
 unicode = 74;
 },
-,
 {
 glyphname = uni004B;
 kernLeft = uni004B;
@@ -3859,7 +3876,6 @@ width = 1140;
 note = uni004B;
 unicode = 75;
 },
-,
 {
 glyphname = uni004C;
 kernLeft = uni004C;
@@ -4015,7 +4031,6 @@ metricLeft = "=uni0048";
 note = uni004C;
 unicode = 76;
 },
-,
 {
 glyphname = uni004D;
 kernLeft = uni0048;
@@ -4278,7 +4293,6 @@ width = 1293;
 note = uni004D;
 unicode = 77;
 },
-,
 {
 glyphname = uni004E;
 kernLeft = uni0048;
@@ -4488,7 +4502,6 @@ metricLeft = "=uni0048";
 note = uni004E;
 unicode = 78;
 },
-,
 {
 glyphname = uni004F;
 kernLeft = uni004F;
@@ -4739,7 +4752,6 @@ width = 940;
 note = uni004F;
 unicode = 79;
 },
-,
 {
 glyphname = uni0050;
 kernLeft = uni0050;
@@ -4979,7 +4991,6 @@ metricLeft = "=uni0048";
 note = uni0050;
 unicode = 80;
 },
-,
 {
 glyphname = uni0051;
 kernLeft = uni004F;
@@ -5285,7 +5296,6 @@ metricLeft = "=uni004F";
 note = uni0051;
 unicode = 81;
 },
-,
 {
 glyphname = uni0052;
 kernLeft = uni0052;
@@ -5633,7 +5643,6 @@ metricLeft = "=uni0048";
 note = uni0052;
 unicode = 82;
 },
-,
 {
 glyphname = uni0053;
 kernLeft = uni004F;
@@ -6382,7 +6391,6 @@ width = 1054;
 note = uni0053;
 unicode = 83;
 },
-,
 {
 glyphname = uni0054;
 kernLeft = uni0054;
@@ -6537,7 +6545,6 @@ width = 831;
 note = uni0054;
 unicode = 84;
 },
-,
 {
 glyphname = uni0055;
 kernLeft = uni0048;
@@ -6722,7 +6729,6 @@ width = 986;
 note = uni0055;
 unicode = 85;
 },
-,
 {
 glyphname = uni0056;
 kernLeft = uni0056;
@@ -6877,7 +6883,6 @@ width = 1015;
 note = uni0056;
 unicode = 86;
 },
-,
 {
 glyphname = uni0057;
 kernLeft = uni0056;
@@ -7140,7 +7145,6 @@ width = 1460;
 note = uni0057;
 unicode = 87;
 },
-,
 {
 glyphname = uni0058;
 lastChange = "2026-04-14 12:40:03 +0000";
@@ -7293,7 +7297,6 @@ width = 1033;
 note = uni0058;
 unicode = 88;
 },
-,
 {
 glyphname = uni0059;
 kernLeft = uni0056;
@@ -7502,7 +7505,6 @@ width = 1062;
 note = uni0059;
 unicode = 89;
 },
-,
 {
 glyphname = uniEE03;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -7567,7 +7569,6 @@ width = 1062;
 note = uniEE03;
 unicode = 60931;
 },
-,
 {
 glyphname = uni005A;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -7774,7 +7775,6 @@ width = 803;
 note = uni005A;
 unicode = 90;
 },
-,
 {
 glyphname = uni0061;
 kernLeft = uni0061;
@@ -8157,7 +8157,6 @@ width = 833;
 note = uni0061;
 unicode = 97;
 },
-,
 {
 glyphname = uni0062;
 kernLeft = uni0062;
@@ -8462,7 +8461,6 @@ width = 880;
 note = uni0062;
 unicode = 98;
 },
-,
 {
 glyphname = uni0063;
 kernLeft = uni006F;
@@ -8696,7 +8694,6 @@ metricLeft = "=uni006F";
 note = uni0063;
 unicode = 99;
 },
-,
 {
 glyphname = uni0064;
 kernLeft = uni0064;
@@ -9001,7 +8998,6 @@ width = 870;
 note = uni0064;
 unicode = 100;
 },
-,
 {
 glyphname = uni0065;
 kernLeft = uni006F;
@@ -9331,7 +9327,6 @@ metricLeft = "=uni006F";
 note = uni0065;
 unicode = 101;
 },
-,
 {
 glyphname = uni0066;
 kernLeft = uni0066;
@@ -9528,7 +9523,6 @@ width = 602;
 note = uni0066;
 unicode = 102;
 },
-,
 {
 glyphname = uni0067;
 kernLeft = uni0067;
@@ -9881,7 +9875,6 @@ width = 838;
 note = uni0067;
 unicode = 103;
 },
-,
 {
 glyphname = uni0068;
 kernLeft = uni006D;
@@ -10120,7 +10113,6 @@ width = 889;
 note = uni0068;
 unicode = 104;
 },
-,
 {
 glyphname = uni0069;
 kernLeft = uni006C;
@@ -10275,7 +10267,6 @@ width = 412;
 note = uni0069;
 unicode = 105;
 },
-,
 {
 glyphname = uni006A;
 kernLeft = uni006A;
@@ -10478,7 +10469,6 @@ width = 485;
 note = uni006A;
 unicode = 106;
 },
-,
 {
 glyphname = uni006B;
 kernLeft = uni006B;
@@ -10645,7 +10635,6 @@ width = 977;
 note = uni006B;
 unicode = 107;
 },
-,
 {
 glyphname = uni006C;
 kernLeft = uni006C;
@@ -10746,7 +10735,6 @@ width = 408;
 note = uni006C;
 unicode = 108;
 },
-,
 {
 glyphname = uni006D;
 kernLeft = uni006D;
@@ -11124,7 +11112,6 @@ metricLeft = "=uni006E";
 note = uni006D;
 unicode = 109;
 },
-,
 {
 glyphname = uni006E;
 kernLeft = uni006D;
@@ -11363,7 +11350,6 @@ width = 887;
 note = uni006E;
 unicode = 110;
 },
-,
 {
 glyphname = uni006F;
 kernLeft = uni006F;
@@ -11614,7 +11600,6 @@ width = 824;
 note = uni006F;
 unicode = 111;
 },
-,
 {
 glyphname = uni0070;
 kernLeft = uni0062;
@@ -11919,7 +11904,6 @@ width = 880;
 note = uni0070;
 unicode = 112;
 },
-,
 {
 glyphname = uni0071;
 kernLeft = uni0067;
@@ -12224,7 +12208,6 @@ width = 873;
 note = uni0071;
 unicode = 113;
 },
-,
 {
 glyphname = uni0072;
 kernLeft = uni0072;
@@ -12415,7 +12398,6 @@ width = 641;
 note = uni0072;
 unicode = 114;
 },
-,
 {
 glyphname = uni0073;
 kernLeft = uni006F;
@@ -13164,7 +13146,6 @@ width = 847;
 note = uni0073;
 unicode = 115;
 },
-,
 {
 glyphname = uni0074;
 kernLeft = uni0074;
@@ -13361,7 +13342,6 @@ width = 594;
 note = uni0074;
 unicode = 116;
 },
-,
 {
 glyphname = uni0075;
 kernLeft = uni0075;
@@ -13601,7 +13581,6 @@ metricLeft = "=uni006E";
 note = uni0075;
 unicode = 117;
 },
-,
 {
 glyphname = uni0076;
 kernLeft = uni0076;
@@ -13756,7 +13735,6 @@ width = 966;
 note = uni0076;
 unicode = 118;
 },
-,
 {
 glyphname = uni0077;
 kernLeft = uni0076;
@@ -14019,7 +13997,6 @@ width = 1341;
 note = uni0077;
 unicode = 119;
 },
-,
 {
 glyphname = uni0078;
 kernLeft = uni0078;
@@ -14174,7 +14151,6 @@ width = 932;
 note = uni0078;
 unicode = 120;
 },
-,
 {
 glyphname = uni0079;
 kernLeft = uni0076;
@@ -14329,7 +14305,6 @@ width = 890;
 note = uni0079;
 unicode = 121;
 },
-,
 {
 glyphname = uni007A;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -14536,7 +14511,6 @@ width = 684;
 note = uni007A;
 unicode = 122;
 },
-,
 {
 glyphname = uni0024;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -15337,7 +15311,6 @@ width = 1007;
 note = uni0024;
 unicode = 36;
 },
-,
 {
 glyphname = uni20AA;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -15610,7 +15583,6 @@ width = 999;
 note = uni20AA;
 unicode = 8362;
 },
-,
 {
 glyphname = uni0030;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -15859,7 +15831,6 @@ width = 877;
 note = uni0030;
 unicode = 48;
 },
-,
 {
 glyphname = uni0031;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -15988,7 +15959,6 @@ width = 516;
 note = uni0031;
 unicode = 49;
 },
-,
 {
 glyphname = uni0032;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -16291,7 +16261,6 @@ width = 879;
 note = uni0032;
 unicode = 50;
 },
-,
 {
 glyphname = uni0033;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -16648,7 +16617,6 @@ width = 869;
 note = uni0033;
 unicode = 51;
 },
-,
 {
 glyphname = uni0034;
 lastChange = "2026-04-10 15:41:33 +0000";
@@ -16855,7 +16823,6 @@ width = 928;
 note = uni0034;
 unicode = 52;
 },
-,
 {
 glyphname = uni0035;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -17194,7 +17161,6 @@ width = 854;
 note = uni0035;
 unicode = 53;
 },
-,
 {
 glyphname = uni0036;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -17557,7 +17523,6 @@ width = 850;
 note = uni0036;
 unicode = 54;
 },
-,
 {
 glyphname = uni0037;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -17734,7 +17699,6 @@ width = 853;
 note = uni0037;
 unicode = 55;
 },
-,
 {
 glyphname = uni0038;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -18187,7 +18151,6 @@ width = 879;
 note = uni0038;
 unicode = 56;
 },
-,
 {
 glyphname = uni0039;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -18550,7 +18513,6 @@ width = 850;
 note = uni0039;
 unicode = 57;
 },
-,
 {
 glyphname = zero.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -18616,7 +18578,6 @@ width = 877;
 );
 note = uniE071;
 },
-,
 {
 glyphname = one.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -18682,7 +18643,6 @@ width = 516;
 );
 note = uniE072;
 },
-,
 {
 glyphname = two.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -18748,7 +18708,6 @@ width = 879;
 );
 note = uniE073;
 },
-,
 {
 glyphname = three.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -18814,7 +18773,6 @@ width = 869;
 );
 note = uniE074;
 },
-,
 {
 glyphname = four.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -18878,7 +18836,6 @@ width = 928;
 );
 note = uniE075;
 },
-,
 {
 glyphname = five.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -18944,7 +18901,6 @@ width = 854;
 );
 note = uniE076;
 },
-,
 {
 glyphname = six.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -19010,7 +18966,6 @@ width = 850;
 );
 note = uniE077;
 },
-,
 {
 glyphname = seven.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -19076,7 +19031,6 @@ width = 853;
 );
 note = uniE078;
 },
-,
 {
 glyphname = eight.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -19142,7 +19096,6 @@ width = 879;
 );
 note = uniE079;
 },
-,
 {
 glyphname = nine.tnum;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -19208,7 +19161,6 @@ width = 850;
 );
 note = uniE07A;
 },
-,
 {
 glyphname = uni0026;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -19673,7 +19625,6 @@ width = 1141;
 note = uni0026;
 unicode = 38;
 },
-,
 {
 glyphname = uni0021;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -19826,7 +19777,6 @@ width = 352;
 note = uni0021;
 unicode = 33;
 },
-,
 {
 glyphname = uni203C;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -19917,7 +19867,6 @@ width = 728;
 note = uni203C;
 unicode = 8252;
 },
-,
 {
 glyphname = uni2049;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -20008,7 +19957,6 @@ width = 976;
 note = uni2049;
 unicode = 8265;
 },
-,
 {
 glyphname = uni003F;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -20329,7 +20277,6 @@ width = 932;
 note = uni003F;
 unicode = 63;
 },
-,
 {
 glyphname = uni0028;
 kernLeft = uni0028;
@@ -20508,7 +20455,6 @@ width = 496;
 note = uni0028;
 unicode = 40;
 },
-,
 {
 glyphname = uni0029;
 kernLeft = uni0029;
@@ -20687,7 +20633,6 @@ width = 496;
 note = uni0029;
 unicode = 41;
 },
-,
 {
 glyphname = uni005B;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -20894,7 +20839,6 @@ width = 495;
 note = uni005B;
 unicode = 91;
 },
-,
 {
 glyphname = uni005D;
 kernLeft = uni005D;
@@ -21103,7 +21047,6 @@ width = 495;
 note = uni005D;
 unicode = 93;
 },
-,
 {
 glyphname = uni007B;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -21514,7 +21457,6 @@ width = 460;
 note = uni007B;
 unicode = 123;
 },
-,
 {
 glyphname = uni007D;
 kernLeft = uni007D;
@@ -21927,7 +21869,6 @@ width = 460;
 note = uni007D;
 unicode = 125;
 },
-,
 {
 glyphname = uni0040;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -21985,7 +21926,6 @@ nodes = (
 (794,178,o),
 (846,221,o),
 (841,363,c),
-(841,363,l),
 (841,572,o),
 (685,733,o),
 (495,733,c),
@@ -22147,7 +22087,6 @@ nodes = (
 (993,291,o),
 (1008,316,o),
 (1008,364,c),
-(1008,364,l),
 (1007,525,o),
 (876,667,o),
 (642,667,c),
@@ -22228,7 +22167,6 @@ nodes = (
 (776,178,o),
 (828,221,o),
 (823,363,c),
-(823,363,l),
 (823,572,o),
 (667,733,o),
 (477,733,c),
@@ -22390,7 +22328,6 @@ nodes = (
 (971,291,o),
 (986,316,o),
 (986,364,c),
-(986,364,l),
 (985,525,o),
 (854,667,o),
 (620,667,c),
@@ -22422,7 +22359,6 @@ width = 1169;
 note = uni0040;
 unicode = 64;
 },
-,
 {
 glyphname = uni0028.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -22492,7 +22428,6 @@ width = 496;
 );
 note = uni0028.case;
 },
-,
 {
 glyphname = uni0029.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -22562,7 +22497,6 @@ width = 496;
 );
 note = uni0029.case;
 },
-,
 {
 glyphname = uni005B.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -22632,7 +22566,6 @@ width = 495;
 );
 note = uni005B.case;
 },
-,
 {
 glyphname = uni005D.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -22702,7 +22635,6 @@ width = 495;
 );
 note = uni005D.case;
 },
-,
 {
 glyphname = uni007B.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -22772,7 +22704,6 @@ width = 460;
 );
 note = uni007B.case;
 },
-,
 {
 glyphname = uni007D.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -22842,7 +22773,6 @@ width = 460;
 );
 note = uni007D.case;
 },
-,
 {
 glyphname = uni0040.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -22912,7 +22842,6 @@ width = 1169;
 );
 note = uni0040.case;
 },
-,
 {
 glyphname = uni0023;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -23173,7 +23102,6 @@ width = 968;
 note = uni0023;
 unicode = 35;
 },
-,
 {
 glyphname = uni002F;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -23272,7 +23200,6 @@ width = 589;
 note = uni002F;
 unicode = 47;
 },
-,
 {
 glyphname = uni007C;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -23371,7 +23298,6 @@ width = 446;
 note = uni007C;
 unicode = 124;
 },
-,
 {
 glyphname = uni00A6;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -23524,7 +23450,6 @@ width = 305;
 note = uni00A6;
 unicode = 166;
 },
-,
 {
 glyphname = uni005C;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -23623,7 +23548,6 @@ width = 567;
 note = uni005C;
 unicode = 92;
 },
-,
 {
 glyphname = uni002D;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -23722,7 +23646,6 @@ width = 466;
 note = uni002D;
 unicode = 45;
 },
-,
 {
 glyphname = uni00AD;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -23790,7 +23713,6 @@ width = 496;
 note = uni00AD;
 unicode = 173;
 },
-,
 {
 glyphname = uni2012;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -23889,7 +23811,6 @@ width = 729;
 note = uni2012;
 unicode = 8210;
 },
-,
 {
 glyphname = uni25E6;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -24162,7 +24083,6 @@ width = 392;
 note = uni25E6;
 unicode = 9702;
 },
-,
 {
 glyphname = uni2043;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -24261,7 +24181,6 @@ width = 397;
 note = uni2043;
 unicode = 8259;
 },
-,
 {
 glyphname = uni002D.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -24359,7 +24278,6 @@ width = 466;
 );
 note = uni002D.case;
 },
-,
 {
 glyphname = uni2012.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -24429,7 +24347,6 @@ width = 729;
 );
 note = uni2012.case;
 },
-,
 {
 glyphname = uni25E6.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -24499,7 +24416,6 @@ width = 392;
 );
 note = uni25E6.case;
 },
-,
 {
 glyphname = uni2043.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -24569,7 +24485,6 @@ width = 397;
 );
 note = uni2043.case;
 },
-,
 {
 glyphname = uni0027;
 kernLeft = uni0027;
@@ -24670,7 +24585,6 @@ width = 263;
 note = uni0027;
 unicode = 39;
 },
-,
 {
 glyphname = uni0022;
 kernLeft = uni0027;
@@ -24766,7 +24680,6 @@ width = 505;
 note = uni0022;
 unicode = 34;
 },
-,
 {
 glyphname = uni2032;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -24967,7 +24880,6 @@ width = 311;
 note = uni2032;
 unicode = 8242;
 },
-,
 {
 glyphname = uni2033;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -25120,7 +25032,6 @@ width = 794;
 note = uni2033;
 unicode = 8243;
 },
-,
 {
 glyphname = uni2035;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -25219,7 +25130,6 @@ width = 311;
 note = uni2035;
 unicode = 8245;
 },
-,
 {
 glyphname = uni2036;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -25314,7 +25224,6 @@ width = 567;
 note = uni2036;
 unicode = 8246;
 },
-,
 {
 glyphname = uni02B9;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -25413,7 +25322,6 @@ width = 254;
 note = uni02B9;
 unicode = 697;
 },
-,
 {
 glyphname = uni02BA;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -25508,7 +25416,6 @@ width = 507;
 note = uni02BA;
 unicode = 698;
 },
-,
 {
 glyphname = uni002C;
 kernLeft = uni002C;
@@ -25609,7 +25516,6 @@ width = 403;
 note = uni002C;
 unicode = 44;
 },
-,
 {
 glyphname = uni002E;
 kernLeft = uni002E;
@@ -25710,7 +25616,6 @@ width = 357;
 note = uni002E;
 unicode = 46;
 },
-,
 {
 glyphname = uni003A;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -25863,7 +25768,6 @@ width = 357;
 note = uni003A;
 unicode = 58;
 },
-,
 {
 glyphname = uni003A.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -26123,7 +26027,6 @@ width = 309;
 );
 note = uni003A.case;
 },
-,
 {
 glyphname = uniEE01;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -26188,7 +26091,6 @@ width = 334;
 note = uniEE01;
 unicode = 60929;
 },
-,
 {
 glyphname = uni003B;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -26341,7 +26243,6 @@ width = 450;
 note = uni003B;
 unicode = 59;
 },
-,
 {
 glyphname = uniE093;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -26412,7 +26313,6 @@ width = 335;
 note = uniE093;
 unicode = 57491;
 },
-,
 {
 glyphname = uniE094;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -26481,7 +26381,6 @@ width = 334;
 note = uniE094;
 unicode = 57492;
 },
-,
 {
 glyphname = uniE095;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -26550,7 +26449,6 @@ width = 334;
 note = uniE095;
 unicode = 57493;
 },
-,
 {
 glyphname = uniE096;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -26621,7 +26519,6 @@ width = 331;
 note = uniE096;
 unicode = 57494;
 },
-,
 {
 glyphname = uni00B7;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -26692,7 +26589,6 @@ width = 334;
 note = uni00B7;
 unicode = 183;
 },
-,
 {
 glyphname = uni2039;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -26857,7 +26753,6 @@ width = 417;
 note = uni2039;
 unicode = 8249;
 },
-,
 {
 glyphname = uni203A;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -27022,7 +26917,6 @@ width = 417;
 note = uni203A;
 unicode = 8250;
 },
-,
 {
 glyphname = uni003C;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -27157,7 +27051,6 @@ width = 680;
 note = uni003C;
 unicode = 60;
 },
-,
 {
 glyphname = uni003E;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -27292,7 +27185,6 @@ width = 680;
 note = uni003E;
 unicode = 62;
 },
-,
 {
 glyphname = uni2264;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -27481,7 +27373,6 @@ width = 668;
 note = uni2264;
 unicode = 8804;
 },
-,
 {
 glyphname = uni2265;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -27670,7 +27561,6 @@ width = 668;
 note = uni2265;
 unicode = 8805;
 },
-,
 {
 glyphname = uni003D;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -27823,7 +27713,6 @@ width = 674;
 note = uni003D;
 unicode = 61;
 },
-,
 {
 glyphname = uni2260;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -28030,7 +27919,6 @@ width = 668;
 note = uni2260;
 unicode = 8800;
 },
-,
 {
 glyphname = uni002B;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -28183,7 +28071,6 @@ width = 674;
 note = uni002B;
 unicode = 43;
 },
-,
 {
 glyphname = uni2212;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -28282,7 +28169,6 @@ width = 674;
 note = uni2212;
 unicode = 8722;
 },
-,
 {
 glyphname = uni00D7;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -28435,7 +28321,6 @@ width = 689;
 note = uni00D7;
 unicode = 215;
 },
-,
 {
 glyphname = uni00F7;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -28744,7 +28629,6 @@ width = 674;
 note = uni00F7;
 unicode = 247;
 },
-,
 {
 glyphname = uni00B1;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -28951,7 +28835,6 @@ width = 675;
 note = uni00B1;
 unicode = 177;
 },
-,
 {
 glyphname = uni007E;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -29194,7 +29077,6 @@ width = 684;
 note = uni007E;
 unicode = 126;
 },
-,
 {
 glyphname = uni003C.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -29328,7 +29210,6 @@ width = 675;
 );
 note = uni003C.case;
 },
-,
 {
 glyphname = uni003E.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -29462,7 +29343,6 @@ width = 675;
 );
 note = uni003E.case;
 },
-,
 {
 glyphname = uni2264.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -29532,7 +29412,6 @@ width = 668;
 );
 note = uni2264.case;
 },
-,
 {
 glyphname = uni2265.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -29602,7 +29481,6 @@ width = 668;
 );
 note = uni2265.case;
 },
-,
 {
 glyphname = uni003D.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -29754,7 +29632,6 @@ width = 674;
 );
 note = uni003D.case;
 },
-,
 {
 glyphname = uni2260.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -29824,7 +29701,6 @@ width = 668;
 );
 note = uni2260.case;
 },
-,
 {
 glyphname = uni002B.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -29976,7 +29852,6 @@ width = 674;
 );
 note = uni002B.case;
 },
-,
 {
 glyphname = uni2212.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -30074,7 +29949,6 @@ width = 674;
 );
 note = uni2212.case;
 },
-,
 {
 glyphname = uni00D7.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -30226,7 +30100,6 @@ width = 689;
 );
 note = uni00D7.case;
 },
-,
 {
 glyphname = uni00F7.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -30534,7 +30407,6 @@ width = 674;
 );
 note = uni00F7.case;
 },
-,
 {
 glyphname = uni007E.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -30604,7 +30476,6 @@ width = 684;
 );
 note = uni007E.case;
 },
-,
 {
 glyphname = uni005F;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -30703,7 +30574,6 @@ width = 518;
 note = uni005F;
 unicode = 95;
 },
-,
 {
 glyphname = uni005E;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -30880,7 +30750,6 @@ width = 511;
 note = uni005E;
 unicode = 94;
 },
-,
 {
 glyphname = uni00AE;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -31417,7 +31286,6 @@ width = 661;
 note = uni00AE;
 unicode = 174;
 },
-,
 {
 glyphname = uni00A9;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -31984,7 +31852,6 @@ width = 898;
 note = uni00A9;
 unicode = 169;
 },
-,
 {
 glyphname = u1F12F;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -32551,7 +32418,6 @@ width = 890;
 note = u1F12F;
 unicode = 127279;
 },
-,
 {
 glyphname = uni2117;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -33022,7 +32888,6 @@ width = 652;
 note = uni2117;
 unicode = 8471;
 },
-,
 {
 glyphname = uni2122;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -33355,7 +33220,6 @@ width = 659;
 note = uni2122;
 unicode = 8482;
 },
-,
 {
 glyphname = uni00B0;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -33652,7 +33516,6 @@ width = 463;
 note = uni00B0;
 unicode = 176;
 },
-,
 {
 glyphname = uni00B6;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -33859,7 +33722,6 @@ width = 618;
 note = uni00B6;
 unicode = 182;
 },
-,
 {
 glyphname = uni204B;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -34066,7 +33928,6 @@ width = 603;
 note = uni204B;
 unicode = 8267;
 },
-,
 {
 glyphname = uni221A;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -34285,7 +34146,6 @@ width = 676;
 note = uni221A;
 unicode = 8730;
 },
-,
 {
 glyphname = uniE163;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -34618,7 +34478,6 @@ width = 436;
 note = uniE163;
 unicode = 57699;
 },
-,
 {
 glyphname = uni2070;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -34867,7 +34726,6 @@ width = 541;
 note = uni2070;
 unicode = 8304;
 },
-,
 {
 glyphname = uni00B9;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -34996,7 +34854,6 @@ width = 346;
 note = uni00B9;
 unicode = 185;
 },
-,
 {
 glyphname = uni00B2;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -35299,7 +35156,6 @@ width = 554;
 note = uni00B2;
 unicode = 178;
 },
-,
 {
 glyphname = uni00B3;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -35656,7 +35512,6 @@ width = 548;
 note = uni00B3;
 unicode = 179;
 },
-,
 {
 glyphname = uni2074;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -35863,7 +35718,6 @@ width = 573;
 note = uni2074;
 unicode = 8308;
 },
-,
 {
 glyphname = uni2075;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -36202,7 +36056,6 @@ width = 536;
 note = uni2075;
 unicode = 8309;
 },
-,
 {
 glyphname = uni2076;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -36565,7 +36418,6 @@ width = 532;
 note = uni2076;
 unicode = 8310;
 },
-,
 {
 glyphname = uni2077;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -36778,7 +36630,6 @@ width = 528;
 note = uni2077;
 unicode = 8311;
 },
-,
 {
 glyphname = uni2078;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -37231,7 +37082,6 @@ width = 544;
 note = uni2078;
 unicode = 8312;
 },
-,
 {
 glyphname = uni2079;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -37594,7 +37444,6 @@ width = 528;
 note = uni2079;
 unicode = 8313;
 },
-,
 {
 glyphname = uni207D;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -37765,7 +37614,6 @@ width = 293;
 note = uni207D;
 unicode = 8317;
 },
-,
 {
 glyphname = uni207E;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -37936,7 +37784,6 @@ width = 293;
 note = uni207E;
 unicode = 8318;
 },
-,
 {
 glyphname = uniE0A7;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -38059,7 +37906,6 @@ width = 289;
 note = uniE0A7;
 unicode = 57511;
 },
-,
 {
 glyphname = uniE0A8;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -38182,7 +38028,6 @@ width = 289;
 note = uniE0A8;
 unicode = 57512;
 },
-,
 {
 glyphname = uni207A;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -38335,7 +38180,6 @@ width = 445;
 note = uni207A;
 unicode = 8314;
 },
-,
 {
 glyphname = uni207B;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -38434,7 +38278,6 @@ width = 445;
 note = uni207B;
 unicode = 8315;
 },
-,
 {
 glyphname = uni207C;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -38587,7 +38430,6 @@ width = 443;
 note = uni207C;
 unicode = 8316;
 },
-,
 {
 glyphname = uniE0AE;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -38658,7 +38500,6 @@ width = 455;
 note = uniE0AE;
 unicode = 57518;
 },
-,
 {
 glyphname = uni2080;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -38907,7 +38748,6 @@ width = 546;
 note = uni2080;
 unicode = 8320;
 },
-,
 {
 glyphname = uni2081;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -39036,7 +38876,6 @@ width = 337;
 note = uni2081;
 unicode = 8321;
 },
-,
 {
 glyphname = uni2082;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -39339,7 +39178,6 @@ width = 546;
 note = uni2082;
 unicode = 8322;
 },
-,
 {
 glyphname = uni2083;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -39696,7 +39534,6 @@ width = 540;
 note = uni2083;
 unicode = 8323;
 },
-,
 {
 glyphname = uni2084;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -39767,7 +39604,6 @@ width = 573;
 note = uni2084;
 unicode = 8324;
 },
-,
 {
 glyphname = uni2085;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -39838,7 +39674,6 @@ width = 536;
 note = uni2085;
 unicode = 8325;
 },
-,
 {
 glyphname = uni2086;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -39909,7 +39744,6 @@ width = 532;
 note = uni2086;
 unicode = 8326;
 },
-,
 {
 glyphname = uni2087;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -39980,7 +39814,6 @@ width = 528;
 note = uni2087;
 unicode = 8327;
 },
-,
 {
 glyphname = uni2088;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40051,7 +39884,6 @@ width = 544;
 note = uni2088;
 unicode = 8328;
 },
-,
 {
 glyphname = uni2089;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40122,7 +39954,6 @@ width = 528;
 note = uni2089;
 unicode = 8329;
 },
-,
 {
 glyphname = uni208D;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40193,7 +40024,6 @@ width = 293;
 note = uni208D;
 unicode = 8333;
 },
-,
 {
 glyphname = uni208E;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40264,7 +40094,6 @@ width = 293;
 note = uni208E;
 unicode = 8334;
 },
-,
 {
 glyphname = uniE0B2;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40335,7 +40164,6 @@ width = 315;
 note = uniE0B2;
 unicode = 57522;
 },
-,
 {
 glyphname = uniE0B3;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40406,7 +40234,6 @@ width = 315;
 note = uniE0B3;
 unicode = 57523;
 },
-,
 {
 glyphname = uni208A;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40477,7 +40304,6 @@ width = 445;
 note = uni208A;
 unicode = 8330;
 },
-,
 {
 glyphname = uni208B;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40548,7 +40374,6 @@ width = 445;
 note = uni208B;
 unicode = 8331;
 },
-,
 {
 glyphname = uni208C;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40701,7 +40526,6 @@ width = 443;
 note = uni208C;
 unicode = 8332;
 },
-,
 {
 glyphname = uni2044;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -40800,7 +40624,6 @@ width = 589;
 note = uni2044;
 unicode = 8260;
 },
-,
 {
 glyphname = uniE0C8;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40871,7 +40694,6 @@ width = 426;
 note = uniE0C8;
 unicode = 57544;
 },
-,
 {
 glyphname = uniE0C9;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -40942,7 +40764,6 @@ width = 426;
 note = uniE0C9;
 unicode = 57545;
 },
-,
 {
 glyphname = uniE0CA;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -41013,7 +40834,6 @@ width = 429;
 note = uniE0CA;
 unicode = 57546;
 },
-,
 {
 glyphname = uniE0CB;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -41084,7 +40904,6 @@ width = 284;
 note = uniE0CB;
 unicode = 57547;
 },
-,
 {
 glyphname = uniE0CC;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -41155,7 +40974,6 @@ width = 284;
 note = uniE0CC;
 unicode = 57548;
 },
-,
 {
 glyphname = uniE0D7;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -41308,7 +41126,6 @@ width = 398;
 note = uniE0D7;
 unicode = 57559;
 },
-,
 {
 glyphname = uniE0D8;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -41407,7 +41224,6 @@ width = 398;
 note = uniE0D8;
 unicode = 57560;
 },
-,
 {
 glyphname = uniE0D9;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -41560,7 +41376,6 @@ width = 401;
 note = uniE0D9;
 unicode = 57561;
 },
-,
 {
 glyphname = uniE0DA;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -41731,7 +41546,6 @@ width = 263;
 note = uniE0DA;
 unicode = 57562;
 },
-,
 {
 glyphname = uniE0DB;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -41902,7 +41716,6 @@ width = 263;
 note = uniE0DB;
 unicode = 57563;
 },
-,
 {
 glyphname = uni0025;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -42409,7 +42222,6 @@ width = 1355;
 note = uni0025;
 unicode = 37;
 },
-,
 {
 glyphname = uni2106;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -42476,7 +42288,6 @@ width = 589;
 note = uni2106;
 unicode = 8454;
 },
-,
 {
 glyphname = uni2105;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -42543,7 +42354,6 @@ width = 589;
 note = uni2105;
 unicode = 8453;
 },
-,
 {
 glyphname = uni2101;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -42610,7 +42420,6 @@ width = 589;
 note = uni2101;
 unicode = 8449;
 },
-,
 {
 glyphname = uni00B4;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -42709,7 +42518,6 @@ width = 457;
 note = uni00B4;
 unicode = 180;
 },
-,
 {
 glyphname = uni0060;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -42808,7 +42616,6 @@ width = 457;
 note = uni0060;
 unicode = 96;
 },
-,
 {
 glyphname = casedieresis.cn;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -43056,7 +42863,6 @@ width = 489;
 );
 note = casedieresis.cn;
 },
-,
 {
 glyphname = uni02C6;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -43185,7 +42991,6 @@ width = 605;
 note = uni02C6;
 unicode = 710;
 },
-,
 {
 glyphname = uni02DC;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -43404,7 +43209,6 @@ width = 487;
 note = uni02DC;
 unicode = 732;
 },
-,
 {
 glyphname = casetilde.cn;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -43622,7 +43426,6 @@ width = 491;
 );
 note = casetilde.cn;
 },
-,
 {
 glyphname = uni02DA;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -43895,7 +43698,6 @@ width = 398;
 note = uni02DA;
 unicode = 730;
 },
-,
 {
 glyphname = uni02DA.uc;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -44161,7 +43963,6 @@ width = 396;
 );
 note = uni02DA.uc;
 },
-,
 {
 glyphname = uni02C7;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -44290,7 +44091,6 @@ width = 605;
 note = uni02C7;
 unicode = 711;
 },
-,
 {
 glyphname = uni0020;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44323,7 +44123,6 @@ width = 192;
 note = uni0020;
 unicode = 32;
 },
-,
 {
 glyphname = uni00A0;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44356,7 +44155,6 @@ width = 220;
 note = uni00A0;
 unicode = 160;
 },
-,
 {
 glyphname = uni202F;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44389,7 +44187,6 @@ width = 158;
 note = uni202F;
 unicode = 8239;
 },
-,
 {
 glyphname = uni205F;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44422,7 +44219,6 @@ width = 328;
 note = uni205F;
 unicode = 8287;
 },
-,
 {
 glyphname = uni2000;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44455,7 +44251,6 @@ width = 609;
 note = uni2000;
 unicode = 8192;
 },
-,
 {
 glyphname = uni2001;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44488,7 +44283,6 @@ width = 1182;
 note = uni2001;
 unicode = 8193;
 },
-,
 {
 glyphname = uni2002;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44521,7 +44315,6 @@ width = 521;
 note = uni2002;
 unicode = 8194;
 },
-,
 {
 glyphname = uni2003;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44554,7 +44347,6 @@ width = 1021;
 note = uni2003;
 unicode = 8195;
 },
-,
 {
 glyphname = uni2004;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44587,7 +44379,6 @@ width = 355;
 note = uni2004;
 unicode = 8196;
 },
-,
 {
 glyphname = uni2005;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44620,7 +44411,6 @@ width = 271;
 note = uni2005;
 unicode = 8197;
 },
-,
 {
 glyphname = uni2006;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44653,7 +44443,6 @@ width = 188;
 note = uni2006;
 unicode = 8198;
 },
-,
 {
 glyphname = uni2007;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44686,7 +44475,6 @@ width = 726;
 note = uni2007;
 unicode = 8199;
 },
-,
 {
 glyphname = uni2008;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44719,7 +44507,6 @@ width = 334;
 note = uni2008;
 unicode = 8200;
 },
-,
 {
 glyphname = uni2009;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44752,7 +44539,6 @@ width = 158;
 note = uni2009;
 unicode = 8201;
 },
-,
 {
 glyphname = uni200A;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44785,7 +44571,6 @@ width = 89;
 note = uni200A;
 unicode = 8202;
 },
-,
 {
 glyphname = uni200B;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -44818,7 +44603,6 @@ width = 21;
 note = uni200B;
 unicode = 8203;
 },
-,
 {
 glyphname = uni212A;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -44883,7 +44667,6 @@ width = 1140;
 note = uni212A;
 unicode = 8490;
 },
-,
 {
 glyphname = uni2713;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -44994,7 +44777,6 @@ width = 866;
 note = uni2713;
 unicode = 10003;
 },
-,
 {
 glyphname = uni2717;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45147,7 +44929,6 @@ width = 830;
 note = uni2717;
 unicode = 10007;
 },
-,
 {
 glyphname = uni2303;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45258,7 +45039,6 @@ width = 770;
 note = uni2303;
 unicode = 8963;
 },
-,
 {
 glyphname = uni24B6;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45325,7 +45105,6 @@ width = 1134;
 note = uni24B6;
 unicode = 9398;
 },
-,
 {
 glyphname = uni24B7;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45392,7 +45171,6 @@ width = 939;
 note = uni24B7;
 unicode = 9399;
 },
-,
 {
 glyphname = uni24B8;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45459,7 +45237,6 @@ width = 915;
 note = uni24B8;
 unicode = 9400;
 },
-,
 {
 glyphname = uni24B9;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45526,7 +45303,6 @@ width = 985;
 note = uni24B9;
 unicode = 9401;
 },
-,
 {
 glyphname = uni24BA;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45593,7 +45369,6 @@ width = 869;
 note = uni24BA;
 unicode = 9402;
 },
-,
 {
 glyphname = uni24BB;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45660,7 +45435,6 @@ width = 860;
 note = uni24BB;
 unicode = 9403;
 },
-,
 {
 glyphname = uni24BC;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45727,7 +45501,6 @@ width = 1004;
 note = uni24BC;
 unicode = 9404;
 },
-,
 {
 glyphname = uni24BD;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45794,7 +45567,6 @@ width = 1014;
 note = uni24BD;
 unicode = 9405;
 },
-,
 {
 glyphname = uni24BE;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45861,7 +45633,6 @@ width = 412;
 note = uni24BE;
 unicode = 9406;
 },
-,
 {
 glyphname = uni24BF;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45928,7 +45699,6 @@ width = 980;
 note = uni24BF;
 unicode = 9407;
 },
-,
 {
 glyphname = uni24C0;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -45995,7 +45765,6 @@ width = 1140;
 note = uni24C0;
 unicode = 9408;
 },
-,
 {
 glyphname = uni24C1;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46062,7 +45831,6 @@ width = 840;
 note = uni24C1;
 unicode = 9409;
 },
-,
 {
 glyphname = uni24C2;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46129,7 +45897,6 @@ width = 1293;
 note = uni24C2;
 unicode = 9410;
 },
-,
 {
 glyphname = uni24C3;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46196,7 +45963,6 @@ width = 1054;
 note = uni24C3;
 unicode = 9411;
 },
-,
 {
 glyphname = uni24C4;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46263,7 +46029,6 @@ width = 940;
 note = uni24C4;
 unicode = 9412;
 },
-,
 {
 glyphname = uni24C5;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46330,7 +46095,6 @@ width = 931;
 note = uni24C5;
 unicode = 9413;
 },
-,
 {
 glyphname = uni24C6;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46397,7 +46161,6 @@ width = 936;
 note = uni24C6;
 unicode = 9414;
 },
-,
 {
 glyphname = uni24C7;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46464,7 +46227,6 @@ width = 990;
 note = uni24C7;
 unicode = 9415;
 },
-,
 {
 glyphname = uni24C8;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46531,7 +46293,6 @@ width = 1054;
 note = uni24C8;
 unicode = 9416;
 },
-,
 {
 glyphname = uni24C9;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46598,7 +46359,6 @@ width = 831;
 note = uni24C9;
 unicode = 9417;
 },
-,
 {
 glyphname = uni24CA;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46665,7 +46425,6 @@ width = 986;
 note = uni24CA;
 unicode = 9418;
 },
-,
 {
 glyphname = uni24CB;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46732,7 +46491,6 @@ width = 1015;
 note = uni24CB;
 unicode = 9419;
 },
-,
 {
 glyphname = uni24CC;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46799,7 +46557,6 @@ width = 1460;
 note = uni24CC;
 unicode = 9420;
 },
-,
 {
 glyphname = uni24CE;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46866,7 +46623,6 @@ width = 1062;
 note = uni24CE;
 unicode = 9422;
 },
-,
 {
 glyphname = uni24CF;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -46933,7 +46689,6 @@ width = 803;
 note = uni24CF;
 unicode = 9423;
 },
-,
 {
 glyphname = uniE131;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47004,7 +46759,6 @@ width = 1411;
 note = uniE131;
 unicode = 57649;
 },
-,
 {
 glyphname = uniE132;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47075,7 +46829,6 @@ width = 1411;
 note = uniE132;
 unicode = 57650;
 },
-,
 {
 glyphname = uniE133;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47146,7 +46899,6 @@ width = 1411;
 note = uniE133;
 unicode = 57651;
 },
-,
 {
 glyphname = uniE134;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47217,7 +46969,6 @@ width = 1411;
 note = uniE134;
 unicode = 57652;
 },
-,
 {
 glyphname = uniE135;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47288,7 +47039,6 @@ width = 1411;
 note = uniE135;
 unicode = 57653;
 },
-,
 {
 glyphname = uniE136;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47359,7 +47109,6 @@ width = 1411;
 note = uniE136;
 unicode = 57654;
 },
-,
 {
 glyphname = uniE137;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47430,7 +47179,6 @@ width = 1411;
 note = uniE137;
 unicode = 57655;
 },
-,
 {
 glyphname = uniE15F;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47501,7 +47249,6 @@ width = 1411;
 note = uniE15F;
 unicode = 57695;
 },
-,
 {
 glyphname = uniE160;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47572,7 +47319,6 @@ width = 1411;
 note = uniE160;
 unicode = 57696;
 },
-,
 {
 glyphname = uniE161;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47643,7 +47389,6 @@ width = 1411;
 note = uniE161;
 unicode = 57697;
 },
-,
 {
 glyphname = uniE162;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47714,7 +47459,6 @@ width = 1411;
 note = uniE162;
 unicode = 57698;
 },
-,
 {
 glyphname = uniE13C;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47785,7 +47529,6 @@ width = 1411;
 note = uniE13C;
 unicode = 57660;
 },
-,
 {
 glyphname = uniE13D;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47856,7 +47599,6 @@ width = 1411;
 note = uniE13D;
 unicode = 57661;
 },
-,
 {
 glyphname = u1F130;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47923,7 +47665,6 @@ width = 1134;
 note = u1F130;
 unicode = 127280;
 },
-,
 {
 glyphname = u1F131;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -47990,7 +47731,6 @@ width = 939;
 note = u1F131;
 unicode = 127281;
 },
-,
 {
 glyphname = u1F132;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48057,7 +47797,6 @@ width = 915;
 note = u1F132;
 unicode = 127282;
 },
-,
 {
 glyphname = u1F133;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48124,7 +47863,6 @@ width = 985;
 note = u1F133;
 unicode = 127283;
 },
-,
 {
 glyphname = u1F134;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48191,7 +47929,6 @@ width = 869;
 note = u1F134;
 unicode = 127284;
 },
-,
 {
 glyphname = u1F135;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48258,7 +47995,6 @@ width = 860;
 note = u1F135;
 unicode = 127285;
 },
-,
 {
 glyphname = u1F136;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48325,7 +48061,6 @@ width = 1004;
 note = u1F136;
 unicode = 127286;
 },
-,
 {
 glyphname = u1F137;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48392,7 +48127,6 @@ width = 1014;
 note = u1F137;
 unicode = 127287;
 },
-,
 {
 glyphname = u1F138;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48459,7 +48193,6 @@ width = 412;
 note = u1F138;
 unicode = 127288;
 },
-,
 {
 glyphname = u1F139;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48526,7 +48259,6 @@ width = 980;
 note = u1F139;
 unicode = 127289;
 },
-,
 {
 glyphname = u1F13A;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48593,7 +48325,6 @@ width = 1140;
 note = u1F13A;
 unicode = 127290;
 },
-,
 {
 glyphname = u1F13B;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48660,7 +48391,6 @@ width = 840;
 note = u1F13B;
 unicode = 127291;
 },
-,
 {
 glyphname = u1F13C;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48727,7 +48457,6 @@ width = 1293;
 note = u1F13C;
 unicode = 127292;
 },
-,
 {
 glyphname = u1F13D;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48794,7 +48523,6 @@ width = 1054;
 note = u1F13D;
 unicode = 127293;
 },
-,
 {
 glyphname = u1F13E;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48861,7 +48589,6 @@ width = 940;
 note = u1F13E;
 unicode = 127294;
 },
-,
 {
 glyphname = u1F13F;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48928,7 +48655,6 @@ width = 931;
 note = u1F13F;
 unicode = 127295;
 },
-,
 {
 glyphname = u1F140;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -48995,7 +48721,6 @@ width = 936;
 note = u1F140;
 unicode = 127296;
 },
-,
 {
 glyphname = u1F141;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49062,7 +48787,6 @@ width = 990;
 note = u1F141;
 unicode = 127297;
 },
-,
 {
 glyphname = u1F142;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49129,7 +48853,6 @@ width = 1054;
 note = u1F142;
 unicode = 127298;
 },
-,
 {
 glyphname = u1F143;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49196,7 +48919,6 @@ width = 831;
 note = u1F143;
 unicode = 127299;
 },
-,
 {
 glyphname = u1F144;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49263,7 +48985,6 @@ width = 986;
 note = u1F144;
 unicode = 127300;
 },
-,
 {
 glyphname = u1F145;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49330,7 +49051,6 @@ width = 1015;
 note = u1F145;
 unicode = 127301;
 },
-,
 {
 glyphname = u1F146;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49397,7 +49117,6 @@ width = 1460;
 note = u1F146;
 unicode = 127302;
 },
-,
 {
 glyphname = u1F148;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49464,7 +49183,6 @@ width = 1062;
 note = u1F148;
 unicode = 127304;
 },
-,
 {
 glyphname = u1F149;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49531,7 +49249,6 @@ width = 803;
 note = u1F149;
 unicode = 127305;
 },
-,
 {
 glyphname = uniE13E;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49598,7 +49315,6 @@ width = 877;
 note = uniE13E;
 unicode = 57662;
 },
-,
 {
 glyphname = uniE13F;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49665,7 +49381,6 @@ width = 516;
 note = uniE13F;
 unicode = 57663;
 },
-,
 {
 glyphname = uniE140;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49732,7 +49447,6 @@ width = 879;
 note = uniE140;
 unicode = 57664;
 },
-,
 {
 glyphname = uniE141;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49799,7 +49513,6 @@ width = 869;
 note = uniE141;
 unicode = 57665;
 },
-,
 {
 glyphname = uniE142;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49866,7 +49579,6 @@ width = 928;
 note = uniE142;
 unicode = 57666;
 },
-,
 {
 glyphname = uniE143;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -49933,7 +49645,6 @@ width = 854;
 note = uniE143;
 unicode = 57667;
 },
-,
 {
 glyphname = uniE144;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50000,7 +49711,6 @@ width = 850;
 note = uniE144;
 unicode = 57668;
 },
-,
 {
 glyphname = uniE145;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50067,7 +49777,6 @@ width = 853;
 note = uniE145;
 unicode = 57669;
 },
-,
 {
 glyphname = uniE146;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50134,7 +49843,6 @@ width = 879;
 note = uniE146;
 unicode = 57670;
 },
-,
 {
 glyphname = uniE147;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50201,7 +49909,6 @@ width = 850;
 note = uniE147;
 unicode = 57671;
 },
-,
 {
 glyphname = uniE14E;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50272,7 +49979,6 @@ width = 1411;
 note = uniE14E;
 unicode = 57678;
 },
-,
 {
 glyphname = uniE14F;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50343,7 +50049,6 @@ width = 1411;
 note = uniE14F;
 unicode = 57679;
 },
-,
 {
 glyphname = uniE150;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50414,7 +50119,6 @@ width = 1411;
 note = uniE150;
 unicode = 57680;
 },
-,
 {
 glyphname = uniE151;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50485,7 +50189,6 @@ width = 1411;
 note = uniE151;
 unicode = 57681;
 },
-,
 {
 glyphname = uniE152;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50556,7 +50259,6 @@ width = 1411;
 note = uniE152;
 unicode = 57682;
 },
-,
 {
 glyphname = uniE153;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50627,7 +50329,6 @@ width = 1411;
 note = uniE153;
 unicode = 57683;
 },
-,
 {
 glyphname = uniE154;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50698,7 +50399,6 @@ width = 1411;
 note = uniE154;
 unicode = 57684;
 },
-,
 {
 glyphname = uniE155;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50769,7 +50469,6 @@ width = 1411;
 note = uniE155;
 unicode = 57685;
 },
-,
 {
 glyphname = uniE156;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50840,7 +50539,6 @@ width = 1411;
 note = uniE156;
 unicode = 57686;
 },
-,
 {
 glyphname = uniE157;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50911,7 +50609,6 @@ width = 1411;
 note = uniE157;
 unicode = 57687;
 },
-,
 {
 glyphname = uniE158;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -50982,7 +50679,6 @@ width = 1411;
 note = uniE158;
 unicode = 57688;
 },
-,
 {
 glyphname = uniE15D;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -51053,7 +50749,6 @@ width = 1411;
 note = uniE15D;
 unicode = 57693;
 },
-,
 {
 glyphname = uniE15E;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -51124,7 +50819,6 @@ width = 1411;
 note = uniE15E;
 unicode = 57694;
 },
-,
 {
 glyphname = _tildecross.cn;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -51342,7 +51036,6 @@ width = 499;
 );
 note = _tildecross.cn;
 },
-,
 {
 glyphname = uni02C5;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -51507,7 +51200,6 @@ width = 491;
 note = uni02C5;
 unicode = 709;
 },
-,
 {
 glyphname = uni02C2;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -51672,7 +51364,6 @@ width = 597;
 note = uni02C2;
 unicode = 706;
 },
-,
 {
 glyphname = uni0350;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -51743,7 +51434,6 @@ width = 21;
 note = uni0350;
 unicode = 848;
 },
-,
 {
 glyphname = uni02C3;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -51908,7 +51598,6 @@ width = 597;
 note = uni02C3;
 unicode = 707;
 },
-,
 {
 glyphname = uni02C4;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -52073,7 +51762,6 @@ width = 491;
 note = uni02C4;
 unicode = 708;
 },
-,
 {
 glyphname = uni0336;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -52172,7 +51860,6 @@ width = 698;
 note = uni0336;
 unicode = 822;
 },
-,
 {
 glyphname = uni0335;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -52243,7 +51930,6 @@ width = 37;
 note = uni0335;
 unicode = 821;
 },
-,
 {
 glyphname = commaaccentright.cn;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -52341,7 +52027,6 @@ width = 237;
 );
 note = commaaccentright.cn;
 },
-,
 {
 glyphname = uniE103;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -52440,7 +52125,6 @@ width = 491;
 note = uniE103;
 unicode = 57603;
 },
-,
 {
 glyphname = cyrillictic.cn;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -52538,7 +52222,6 @@ width = 323;
 );
 note = cyrillictic.cn;
 },
-,
 {
 glyphname = uni02CE;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -52605,7 +52288,6 @@ width = 457;
 note = uni02CE;
 unicode = 718;
 },
-,
 {
 glyphname = uni0316;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -52672,7 +52354,6 @@ width = 457;
 note = uni0316;
 unicode = 790;
 },
-,
 {
 glyphname = uni2010;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -52743,7 +52424,6 @@ width = 557;
 note = uni2010;
 unicode = 8208;
 },
-,
 {
 glyphname = uni2027;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -52890,7 +52570,6 @@ width = 311;
 note = uni2027;
 unicode = 8231;
 },
-,
 {
 glyphname = uni2011;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -52961,7 +52640,6 @@ width = 557;
 note = uni2011;
 unicode = 8209;
 },
-,
 {
 glyphname = uni02C8;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -53060,7 +52738,6 @@ width = 207;
 note = uni02C8;
 unicode = 712;
 },
-,
 {
 glyphname = uni030E;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -53157,7 +52834,6 @@ width = 40;
 note = uni030E;
 unicode = 782;
 },
-,
 {
 glyphname = uni030D;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -53228,7 +52904,6 @@ width = 48;
 note = uni030D;
 unicode = 781;
 },
-,
 {
 glyphname = uni0329;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -53299,7 +52974,6 @@ width = 48;
 note = uni0329;
 unicode = 809;
 },
-,
 {
 glyphname = uni02D7;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -53398,7 +53072,6 @@ width = 420;
 note = uni02D7;
 unicode = 727;
 },
-,
 {
 glyphname = uni203E;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -53469,7 +53142,6 @@ width = 484;
 note = uni203E;
 unicode = 8254;
 },
-,
 {
 glyphname = uni033F;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -53622,7 +53294,6 @@ width = 571;
 note = uni033F;
 unicode = 831;
 },
-,
 {
 glyphname = uni02D6;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -53775,7 +53446,6 @@ width = 393;
 note = uni02D6;
 unicode = 726;
 },
-,
 {
 glyphname = uni0338;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -53874,7 +53544,6 @@ width = 696;
 note = uni0338;
 unicode = 824;
 },
-,
 {
 glyphname = uni0337;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -53973,7 +53642,6 @@ width = 551;
 note = uni0337;
 unicode = 823;
 },
-,
 {
 glyphname = uniE0F3;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -54044,7 +53712,6 @@ width = 317;
 note = uniE0F3;
 unicode = 57587;
 },
-,
 {
 glyphname = uni02F7;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -54275,7 +53942,6 @@ width = 495;
 note = uni02F7;
 unicode = 759;
 },
-,
 {
 glyphname = uni02F8;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -54372,7 +54038,6 @@ width = 365;
 note = uni02F8;
 unicode = 760;
 },
-,
 {
 glyphname = uni034C;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -54777,7 +54442,6 @@ width = 524;
 note = uni034C;
 unicode = 844;
 },
-,
 {
 glyphname = uni1DFE;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -54848,7 +54512,6 @@ width = 21;
 note = uni1DFE;
 unicode = 7678;
 },
-,
 {
 glyphname = uniFE24;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -54947,7 +54610,6 @@ width = 321;
 note = uniFE24;
 unicode = 65060;
 },
-,
 {
 glyphname = uniFE25;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -55046,7 +54708,6 @@ width = 535;
 note = uniFE25;
 unicode = 65061;
 },
-,
 {
 glyphname = uniFE26;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -55145,7 +54806,6 @@ width = 600;
 note = uniFE26;
 unicode = 65062;
 },
-,
 {
 glyphname = uniFEFF;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -55178,7 +54838,6 @@ width = 0;
 note = uniFEFF;
 unicode = 65279;
 },
-,
 {
 glyphname = G.ss05;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -55558,7 +55217,6 @@ width = 994;
 );
 note = uni0047;
 },
-,
 {
 glyphname = a.alt;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -55859,7 +55517,6 @@ width = 865;
 }
 );
 },
-,
 {
 glyphname = r.alt;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -56047,7 +55704,6 @@ width = 889;
 );
 note = uni0072;
 },
-,
 {
 glyphname = u.alt;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -56336,7 +55992,6 @@ width = 891;
 }
 );
 },
-,
 {
 glyphname = y.ss04;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -56644,7 +56299,6 @@ width = 831;
 );
 note = uni0079;
 },
-,
 {
 glyphname = "geresh-hb";
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -56743,7 +56397,6 @@ width = 320;
 note = uni2032;
 unicode = 1523;
 },
-,
 {
 glyphname = asterisk;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -56926,7 +56579,6 @@ width = 705;
 note = uni002A;
 unicode = 42;
 },
-,
 {
 glyphname = emdash;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -57025,7 +56677,6 @@ width = 969;
 note = uni2013;
 unicode = 8212;
 },
-,
 {
 glyphname = emdash.case;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -57095,7 +56746,6 @@ width = 969;
 );
 note = uni2013.case;
 },
-,
 {
 glyphname = quotedblleft;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -57247,7 +56897,6 @@ width = 773;
 );
 unicode = 8220;
 },
-,
 {
 glyphname = quotedblright;
 lastChange = "2026-04-09 08:54:05 +0000";
@@ -57399,7 +57048,6 @@ width = 773;
 );
 unicode = 8221;
 },
-,
 {
 glyphname = quoteright;
 lastChange = "2026-05-10 15:28:54 +0000";
@@ -57498,7 +57146,6 @@ width = 431;
 note = uni2032;
 unicode = 8217;
 },
-,
 {
 glyphname = quotedbl;
 lastChange = "2026-04-09 08:44:35 +0000";
@@ -57650,7 +57297,6 @@ width = 765;
 );
 note = uni2033;
 },
-,
 {
 glyphname = eacute;
 lastChange = "2026-05-10 15:45:10 +0000";
@@ -57736,7 +57382,6 @@ width = 839;
 );
 unicode = 233;
 },
-,
 {
 glyphname = alef;
 lastChange = "2026-07-30 08:05:49 +0000";
@@ -57930,7 +57575,6 @@ width = 835;
 );
 unicode = 1488;
 },
-,
 {
 glyphname = bet;
 lastChange = "2026-07-30 09:38:48 +0000";
@@ -58155,7 +57799,6 @@ width = 716;
 );
 unicode = 1489;
 },
-,
 {
 glyphname = gimel;
 lastChange = "2026-07-30 09:45:25 +0000";
@@ -58409,7 +58052,6 @@ width = 570;
 );
 unicode = 1490;
 },
-,
 {
 glyphname = dalet;
 lastChange = "2026-07-30 09:50:52 +0000";
@@ -58531,7 +58173,6 @@ width = 688;
 );
 unicode = 1491;
 },
-,
 {
 glyphname = he;
 lastChange = "2026-07-30 10:54:44 +0000";
@@ -58731,7 +58372,6 @@ width = 709;
 );
 unicode = 1492;
 },
-,
 {
 glyphname = vav;
 lastChange = "2026-07-30 10:57:08 +0000";
@@ -58829,7 +58469,6 @@ width = 413;
 );
 unicode = 1493;
 },
-,
 {
 glyphname = zayin;
 lastChange = "2026-07-30 11:07:22 +0000";
@@ -58999,7 +58638,6 @@ width = 618;
 );
 unicode = 1494;
 },
-,
 {
 glyphname = het;
 lastChange = "2026-07-30 11:13:11 +0000";
@@ -59157,7 +58795,6 @@ width = 798;
 );
 unicode = 1495;
 },
-,
 {
 glyphname = tet;
 lastChange = "2026-07-30 11:36:19 +0000";
@@ -59375,7 +59012,6 @@ width = 892;
 );
 unicode = 1496;
 },
-,
 {
 glyphname = yod;
 lastChange = "2026-07-30 11:40:01 +0000";
@@ -59473,7 +59109,6 @@ width = 412;
 );
 unicode = 1497;
 },
-,
 {
 glyphname = finalkaf;
 lastChange = "2026-07-30 11:43:19 +0000";
@@ -59619,7 +59254,6 @@ width = 669;
 );
 unicode = 1498;
 },
-,
 {
 glyphname = kaf;
 lastChange = "2026-07-30 12:05:30 +0000";
@@ -59801,7 +59435,6 @@ width = 700;
 );
 unicode = 1499;
 },
-,
 {
 glyphname = lamed;
 lastChange = "2026-07-30 12:15:50 +0000";
@@ -59923,7 +59556,6 @@ width = 759;
 );
 unicode = 1500;
 },
-,
 {
 glyphname = finalmem;
 lastChange = "2026-07-30 12:18:27 +0000";
@@ -60111,7 +59743,6 @@ width = 826;
 );
 unicode = 1501;
 },
-,
 {
 glyphname = mem;
 lastChange = "2026-07-30 12:20:27 +0000";
@@ -60389,7 +60020,6 @@ width = 962;
 );
 unicode = 1502;
 },
-,
 {
 glyphname = finalnun;
 lastChange = "2026-07-30 12:22:18 +0000";
@@ -60487,7 +60117,6 @@ width = 413;
 );
 unicode = 1503;
 },
-,
 {
 glyphname = nun;
 lastChange = "2026-07-30 12:29:25 +0000";
@@ -60645,7 +60274,6 @@ width = 522;
 );
 unicode = 1504;
 },
-,
 {
 glyphname = samekh;
 lastChange = "2026-07-30 12:35:57 +0000";
@@ -60893,7 +60521,6 @@ width = 826;
 );
 unicode = 1505;
 },
-,
 {
 glyphname = ayin;
 lastChange = "2026-07-30 12:59:52 +0000";
@@ -61057,7 +60684,6 @@ width = 838;
 );
 unicode = 1506;
 },
-,
 {
 glyphname = finalpe;
 lastChange = "2026-07-30 12:52:02 +0000";
@@ -61215,7 +60841,6 @@ width = 789;
 );
 unicode = 1507;
 },
-,
 {
 glyphname = pe;
 lastChange = "2026-07-30 12:54:41 +0000";
@@ -61409,7 +61034,6 @@ width = 830;
 );
 unicode = 1508;
 },
-,
 {
 glyphname = finaltsadi;
 lastChange = "2026-07-30 12:56:39 +0000";
@@ -61591,7 +61215,6 @@ width = 822;
 );
 unicode = 1509;
 },
-,
 {
 glyphname = tsadi;
 lastChange = "2026-07-30 12:59:59 +0000";
@@ -61761,7 +61384,6 @@ width = 862;
 );
 unicode = 1510;
 },
-,
 {
 glyphname = qof;
 lastChange = "2026-07-30 13:04:20 +0000";
@@ -61925,7 +61547,6 @@ width = 766;
 );
 unicode = 1511;
 },
-,
 {
 glyphname = resh;
 lastChange = "2026-07-30 13:02:11 +0000";
@@ -62071,7 +61692,6 @@ width = 727;
 );
 unicode = 1512;
 },
-,
 {
 glyphname = shin;
 lastChange = "2026-07-30 13:06:13 +0000";
@@ -62349,7 +61969,6 @@ width = 1189;
 );
 unicode = 1513;
 },
-,
 {
 glyphname = tav;
 lastChange = "2026-07-30 13:08:43 +0000";
@@ -62567,7 +62186,6 @@ width = 944;
 );
 unicode = 1514;
 },
-,
 {
 glyphname = acutecomb;
 lastChange = "2026-05-10 15:45:09 +0000";
