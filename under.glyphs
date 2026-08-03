@@ -11603,7 +11603,7 @@ unicode = 111;
 {
 glyphname = uni0070;
 kernLeft = uni0062;
-kernRight = uni006D;
+kernRight = uni0062;
 lastChange = "2026-04-09 08:54:05 +0000";
 layers = (
 {
@@ -20841,7 +20841,7 @@ unicode = 91;
 },
 {
 glyphname = uni005D;
-kernLeft = uni005D;
+kernLeft = uni0029;
 kernRight = uni0029;
 lastChange = "2026-04-09 08:54:05 +0000";
 layers = (
@@ -21459,7 +21459,7 @@ unicode = 123;
 },
 {
 glyphname = uni007D;
-kernLeft = uni007D;
+kernLeft = uni0029;
 kernRight = uni0029;
 lastChange = "2026-04-09 08:54:05 +0000";
 layers = (
@@ -25418,7 +25418,7 @@ unicode = 698;
 },
 {
 glyphname = uni002C;
-kernLeft = uni002C;
+kernLeft = uni002E;
 kernRight = uni002E;
 lastChange = "2026-04-09 08:54:05 +0000";
 layers = (
